@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 /**
  * Created by jonathanarevalo on 14-12-19.
- * Class that handles all the functions in the home section
+ * Class that handles all the functions in the game section
  */
 public class section2_game extends Fragment {
     View rootview;

@@ -27,6 +27,8 @@ import android.widget.Toast;
  * See the <a href="https://developer.android.com/design/patterns/navigation-drawer.html#Interaction">
  * design guidelines</a> for a complete explanation of the behaviors implemented here.
  */
+
+//TODO: Make sure that when the user clicks on a item, the corresponding item in the database will be shown
 public class NavigationDrawerFragment extends Fragment {
 
     /**
